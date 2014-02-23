@@ -4,4 +4,4 @@
  *
  * @author Klaus Vormweg <klaus.vormweg@gmx.de>
  */
-$conf['show_denied'] = false;
+$conf['show_denied'] = 0;
