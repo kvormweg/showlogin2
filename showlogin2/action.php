@@ -19,7 +19,7 @@ class action_plugin_showlogin2 extends DokuWiki_Action_Plugin {
     return array(
       'author' => 'Klaus Vormweg',
       'email'  => 'klaus.vormweg@gmx.de',
-      'date'   => '2011-10-28',
+      'date'   => '2014-02-23',
       'name'   => 'Show Login 2',
       'desc'   => 'If access to page is denied, show login form to users not already logged in.',
       'url'    => 'http://www.tuhh.de/~psvkv/dokuwiki/showlogin2.tar.gz',
