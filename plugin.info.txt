@@ -2,6 +2,6 @@ base   showlogin2
 author Klaus Vormweg
 email  klaus.vormweg@gmx.de
 date   2014-05-08
-name   ldaplocal auth plugin
+name   showlogin2 plugin
 desc   shows the login dialog if you try to access a page you do not have rights for
 url    http://www.tuhh.de/~psvkv/dokuwiki/showlogin2.html
