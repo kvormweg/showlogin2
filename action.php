@@ -29,7 +29,7 @@ class action_plugin_showlogin2 extends DokuWiki_Action_Plugin {
   /**
    * Register its handlers with the dokuwiki's event controller
    */
-  function register(&$controller) {
+  function register(Doku_Event_Handler $controller) {
     # TPL_CONTENT_DISPLAY is called before and after content of wikipage
     # is written to output buffer
     if(!$this->getConf('show_denied')) {
